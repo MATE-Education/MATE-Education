@@ -20,7 +20,7 @@
 
 ## Наши программы
 
-- Backend на фреймворке Django
+- Backend на фреймворке Django[https://github.com/MATE-Education/frontend-with-react]
 - Frontend на фреймворке React
 
 

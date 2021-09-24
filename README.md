@@ -20,8 +20,8 @@
 
 ## Наши программы
 
-- Backend на фреймворке [Django](https://github.com/MATE-Education/backend-with-django)
-- Frontend на фреймворке [React](https://github.com/MATE-Education/frontend-with-react)
+### Backend на фреймворке [Django](https://github.com/MATE-Education/backend-with-django)
+### Frontend на фреймворке [React](https://github.com/MATE-Education/frontend-with-react)
 
 ![alt picture](https://github.com/MATE-Education/about-mate/blob/main/for_whom.svg)
 

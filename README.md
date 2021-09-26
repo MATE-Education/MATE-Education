@@ -6,22 +6,23 @@
 
 - 💕Поддержка / Qo'llab-quvvatlash
 
-   *Co-working с ПК, конфетками и кофе, ручная проверка программ, группы в соц. сетях*
-#####
-   *Kompyuterlarga to'liq koworking, shirinliklar va qahva bilan birgalikda ishlash, dasturlarni qo'lda tekshirish, ijtimoiy tarmoqlarda guruhlar.*
-#####
+    *Co-working с ПК, конфетками и кофе, ручная проверка программ, группы в соц. сетях*
+    ####
+    *Kompyuterlarga to'liq koworking, shirinliklar va qahva bilan birgalikda ishlash, dasturlarni qo'lda tekshirish, ijtimoiy tarmoqlarda guruhlar.*
+    ####
 
 - 👀Слежка / Nazorat
 
-   *Сколько прошёл, как прошёл, как долго проходил урок, - мы знаем о студенте всё.* 
-#####
-   *Siz qancha vaqt o'tdingiz, qanday o'tdingiz, darsingiz qancha davom etdi - biz talabaning natijalari va ko'rsatgichlari haqida hamma ma'lumotga egamiz.*
-#####
+    *Сколько прошёл, как прошёл, как долго проходил урок, - мы знаем о студенте всё.* 
+    ####
+    *Siz qancha vaqt o'tdingiz, qanday o'tdingiz, darsingiz qancha davom etdi - biz talabaning natijalari va ko'rsatgichlari haqida hamma ma'lumotga egamiz.*
+    ####
 
 - 🌹Антиутопия / Antiutopiya
 
-     *Никакой воды. Коммерческая разработка. Работа в команде. Только нужные навыки.*
-     *Hech qanday suvsiz - faqat kerakli ma'lumot. Tijorat dasturlash. Jamoada ishlash. Va faqat kerakli ko'nikmalar.*
+    *Никакой воды. Коммерческая разработка. Работа в команде. Только нужные навыки.* 
+    ####
+    *Hech qanday suvsiz - faqat kerakli ma'lumot. Tijorat dasturlash. Jamoada ishlash. Va faqat kerakli ko'nikmalar.*
       
 
 

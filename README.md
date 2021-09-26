@@ -7,11 +7,13 @@
 - 💕Поддержка / Qo'llab-quvvatlash
 
      *Co-working с ПК, конфетками и кофе, ручная проверка программ, группы в соц. сетях*
+     #####
      *Kompyuterlarga to'liq koworking, shirinliklar va qahva bilan birgalikda ishlash, dasturlarni qo'lda tekshirish, ijtimoiy tarmoqlarda guruhlar.*
 
 - 👀Слежка / Nazorat
 
      *Сколько прошёл, как прошёл, как долго проходил урок, - мы знаем о студенте всё.* 
+     #####
      *Siz qancha vaqt o'tdingiz, qanday o'tdingiz, darsingiz qancha davom etdi - biz talabaning natijalari va ko'rsatgichlari haqida hamma ma'lumotga egamiz.*
     
 - 🌹Антиутопия / Antiutopiya
@@ -26,7 +28,6 @@
 ### - Backend на фреймворке [Django](https://github.com/MATE-Education/backend-with-django) / Backend [Django](https://github.com/MATE-Education/backend-with-django) freymvorkida
 ### - Frontend на фреймворке [React](https://github.com/MATE-Education/frontend-with-react) / Frontend [React](https://github.com/MATE-Education/frontend-with-react) freymvorkida
 ##
-![alt picture](https://github.com/MATE-Education/about-mate/blob/main/for_whom.svg)
 
 ## А в чем отличие? / Farqi nimada?
 
